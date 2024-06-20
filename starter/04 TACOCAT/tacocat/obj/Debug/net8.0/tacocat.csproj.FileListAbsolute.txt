@@ -1,0 +1,15 @@
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.exe
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.deps.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.runtimeconfig.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.pdb
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.AssemblyInfoInputs.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.AssemblyInfo.cs
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.csproj.CoreCompileInputs.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.sourcelink.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\refint\tacocat.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.pdb
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.genruntimeconfig.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\ref\tacocat.dll

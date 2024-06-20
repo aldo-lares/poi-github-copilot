@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0B+Qija6DIED9MECuKTqAjgAL1FsL1bVNtBrJ+svlCXaqPdvbEi/GdVHf4qGF0cZGI/0QmLSf8qSD7wiZ2Eug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erramire\\source\\repos\\poi-github-copilot\\starter\\06 Give me more\\givememore\\givememore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erramire\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "C:\\Users\\erramire\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\erramire\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\erramire\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\erramire\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\erramire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\erramire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

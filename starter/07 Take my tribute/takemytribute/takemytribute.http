@@ -1,0 +1,6 @@
+@takemytribute_HostAddress = http://localhost:5084
+
+GET {{takemytribute_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

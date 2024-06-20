@@ -1,0 +1,15 @@
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\bin\Debug\net8.0\fizzbuzzerickramirez.exe
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\bin\Debug\net8.0\fizzbuzzerickramirez.deps.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\bin\Debug\net8.0\fizzbuzzerickramirez.runtimeconfig.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\bin\Debug\net8.0\fizzbuzzerickramirez.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\bin\Debug\net8.0\fizzbuzzerickramirez.pdb
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.AssemblyInfoInputs.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.AssemblyInfo.cs
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.csproj.CoreCompileInputs.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.sourcelink.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\refint\fizzbuzzerickramirez.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.pdb
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\fizzbuzzerickramirez.genruntimeconfig.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzzerickramirez\obj\Debug\net8.0\ref\fizzbuzzerickramirez.dll

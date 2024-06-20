@@ -1,0 +1,15 @@
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\bin\Debug\net8.0\thefactorialerickramirez.exe
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\bin\Debug\net8.0\thefactorialerickramirez.deps.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\bin\Debug\net8.0\thefactorialerickramirez.runtimeconfig.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\bin\Debug\net8.0\thefactorialerickramirez.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\bin\Debug\net8.0\thefactorialerickramirez.pdb
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.AssemblyInfoInputs.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.AssemblyInfo.cs
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.csproj.CoreCompileInputs.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.sourcelink.json
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\refint\thefactorialerickramirez.dll
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.pdb
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\thefactorialerickramirez.genruntimeconfig.cache
+C:\Users\erramire\source\repos\poi-github-copilot\starter\03 The factorial!\thefactorialerickramirez\obj\Debug\net8.0\ref\thefactorialerickramirez.dll
